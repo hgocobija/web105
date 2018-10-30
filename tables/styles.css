@@ -1,0 +1,70 @@
+.splash {
+    width: 15%;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#green {
+    background: #588c7e;
+}
+
+#yellow {
+    background: #f2e394;
+}
+
+#beige {
+    background: #f2ae72;
+}
+
+#orange {
+    background: #d96459;
+}
+
+#darkred {
+    background: #8c4646;
+}
+
+body {
+    font-family: fantasy;
+    background: #F2E394;
+}
+h1,
+h2,
+h3,
+h4 { color: #8c4646;
+    padding: 15px;
+    font-family: cursive;
+}
+
+h2 {color: #d96459;
+    font-family: sans-serif
+}
+a:hover { text-emphasis: strong;
+          text-decoration: underline;
+          color: blue;
+}
+
+a{ text-decoration: none;
+    color: #8c4646;
+
+}
+
+.container {
+    max-width: 960px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 0.5px solid #D7Ccc8;
+    background: white;
+}
+
+header{text-align: center;
+    background: #F2E394;
+    font-weight: bold;
+
+}
+
+header h1{ color: #8c4646
+}
+
+
